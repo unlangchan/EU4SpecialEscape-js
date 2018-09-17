@@ -1,0 +1,25 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [{
+            "type": "node",
+            "request": "launch",
+            "name": "中英译文映射替换",
+            "program": "${workspaceFolder}/translate.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "解码",
+            "program": "${workspaceFolder}/decoding.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "转码",
+            "program": "${workspaceFolder}/encoding.js"
+        }
+    ]
+}

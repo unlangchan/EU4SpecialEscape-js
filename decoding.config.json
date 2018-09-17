@@ -1,0 +1,5 @@
+{
+    "source": "dist/localisation",
+    "target": "dist/decoding/localisation",
+    "name": "解码目录配置"
+}

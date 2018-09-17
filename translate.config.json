@@ -1,0 +1,7 @@
+{
+    "source_en": "source/en/localisation",
+    "source_zh": "source/zh/localisation",
+    "target": "dist/localisation",
+    "decoding": true,
+    "name": "中英译文映射替换配置"
+}

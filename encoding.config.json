@@ -1,0 +1,5 @@
+{
+    "source": "dist/localisation",
+    "target": "dist/encoding/localisation",
+    "name": "转码目录配置"
+}
