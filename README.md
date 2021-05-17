@@ -1,9 +1,10 @@
 针对[欧陆风云4字节码补丁](https://github.com/matanki-saito/EU4dll)的文本处理程序
 ============================
 
-## 所含功能
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js?ref=badge_shield)
+[![MIT License][license-image]][license-url]
+[![FOSSA Status][fossa-badge-image]][fossa-badge-url]
 
+## 所含功能
 - 补丁所用文本本的转码和解码
 - 低版本语言本地化文件的升级<br>
   高版本英文原版+低版本中文译文 => 高版本中文译文[(高版未翻译的文本不做处理)
@@ -37,4 +38,15 @@
 
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js?ref=badge_large)
+[MIT license][license-url]
+
+[![FOSSA Status][fossa-large-image]][fossa-large-url]
+
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
+
+[fossa-badge-image]: https://app.fossa.com/api/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js.svg?type=shield
+[fossa-badge-url]: https://app.fossa.com/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js?ref=badge_shield
+
+[fossa-large-image]: https://app.fossa.com/api/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js.svg?type=large
+[fossa-large-url]: https://app.fossa.com/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js?ref=badge_large
