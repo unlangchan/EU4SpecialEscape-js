@@ -2,6 +2,8 @@
 ============================
 
 ## 所含功能
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js?ref=badge_shield)
+
 - 补丁所用文本本的转码和解码
 - 低版本语言本地化文件的升级<br>
   高版本英文原版+低版本中文译文 => 高版本中文译文[(高版未翻译的文本不做处理)
@@ -32,3 +34,7 @@
 ## 关联库
 [EU4dll](https://github.com/matanki-saito/EU4dll/)
 [EU4SpecialEscape](https://github.com/matanki-saito/EU4SpecialEscape/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Funlangchan%2FEU4SpecialEscape-js?ref=badge_large)
